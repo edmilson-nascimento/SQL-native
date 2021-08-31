@@ -6,4 +6,4 @@
 Desenvolvimento de uma classe usando tecnologia para execucao sql Nativo.
 
 ## Necessidade ##
-Um modelo basico de ALV que pode servir de modelo para novos programas.
+Um modelo de execução de SQL Nativo para melhoria de perfomance.

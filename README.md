@@ -9,4 +9,4 @@ Desenvolvimento de uma classe usando tecnologia para execucao sql Nativo.
 Um modelo de execução de SQL Nativo para melhoria de perfomance.
 
 ## Implementação ##
-Para as implementações foram feitos dois arquivos anexados nesse repositório, sendo o primeiro com a [classe ABAP](#) de execução e o segundo o programa ABAP com a chamada da classe e execução dos métodos.
+Para as implementações foram feitos dois arquivos anexados nesse repositório, sendo o primeiro com a [classe ABAP](https://github.com/edmilson-nascimento/SQL-native/blob/main/ZEXGMENTESTE.abap) de execução e o segundo o programa ABAP com a chamada da classe e execução dos métodos.
